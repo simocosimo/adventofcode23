@@ -1,3 +1,6 @@
 .vscode
 *.exe
 *.stackdump
+haskell/
+target/
+*.lock
